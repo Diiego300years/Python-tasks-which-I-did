@@ -14,6 +14,8 @@ for i in w:
     i *= 2
 w.append('crash')
 
+
+
 print(w)
 
 print(9%2)
