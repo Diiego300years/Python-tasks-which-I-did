@@ -24,3 +24,6 @@ for i in range(5):
     print(i, i*2)
 
 print(10%3)
+
+print(4**34)
+print(922%34)
